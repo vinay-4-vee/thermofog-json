@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ProMaxPlusKit",
+    "brand": "Hayati",
+    "model": "Hayati Pro Max + Kit 6000",
+    "modelIcon": "https://res.cloudinary.com/depazjh2g/image/upload/v1747775026/Hayati_Pro_Max_Media_Picture_6_uehtug.jpg",
+    "mainImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250341/maxplus-04_2560x_a6ovlz.webp"
+  },
+  {
+    "id": "ProUltraPlusKit",
+    "brand": "Hayati",
+    "model": "Hayati Pro Ultra + Kit 25000",
+    "modelIcon": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250024/Hayati_Pro_Ultra_Media_Picture_1_jam6wl.jpg",
+    "mainImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250025/Hayati_Pro_Ultra_Banner_1_mvoaa3.jpg"
+  }
+]

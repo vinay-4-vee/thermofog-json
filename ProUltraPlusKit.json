@@ -1,0 +1,138 @@
+{
+  "brand": "Hayati",
+  "model": "Hayati Pro Ultra + Kit 25000",
+  "urlToRedirect": "/Hayati/ProUltraPlusKit",
+  "modelIcon": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250024/Hayati_Pro_Ultra_Media_Picture_1_jam6wl.jpg",
+  "mainImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250025/Hayati_Pro_Ultra_Banner_1_mvoaa3.jpg",
+  "mediaPictures": [
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1748250026/Hayati_Pro_Ultra_Media_Picture_2_ald950.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1748250033/Hayati_Pro_Ultra_Media_Picture_5_eyufef.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1748250034/Hayati_Pro_Ultra_Media_Picture_6_kmpx9c.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1748250028/Hayati_Pro_Ultra_Media_Picture_7_yurxwd.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1748250025/Hayati_Pro_Ultra_Media_Picture_8_y0qdq9.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1748250027/Hayati_Pro_Ultra_Media_Picture_12_ifcbgp.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1748250025/Hayati_Pro_Ultra_Media_Picture_13_ptoz7z.jpg"
+  ],
+  "deviceInfo": [
+    {
+      "id": "56221bc4-279a-4405-a0ff-55a4216e3677",
+      "flavourName": "Blackcurrant Cotton K / Blue Raspberry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250024/Blackcurrant_Cotton_K_Blue_Raspberry_Hayati_Pro_Ultra_25000_vrflgq.jpg",
+      "productDescription": "A smooth blend of ripe bananas with a refreshing icy finish."
+    },
+    {
+      "id": "a3c28c8f-e741-4f43-b330-70ffee7aa8d4",
+      "flavourName": "Blue Razz Cherry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250036/Blue_Razz_Cherry_Hayati_Pro_Ultra_25000_orilux.jpg",
+      "productDescription": "A bold mix of tart blackberries and sweet raspberries, delivering a rich and vibrant flavour."
+    },
+    {
+      "id": "7281a5ea-208d-4a1e-9bd6-0fe9a72b5dd2",
+      "flavourName": "Blue Razz GB",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250040/Blue_Razz_GB_Hayati_Pro_Ultra_25000_sddewf.jpg",
+      "productDescription": "A bold fusion of blue raspberry and sweet cherry for a tangy-sweet burst."
+    },
+    {
+      "id": "7e047cab-109d-42c3-a7d5-ed4d03617a0f",
+      "flavourName": "Blue Sour Raspberry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250037/Blue_Sour_Raspberry_Hayati_Pro_Ultra_25000_rzb6ae.jpg",
+      "productDescription": "Blue raspberry with a sweet gummy bear twist, perfectly balanced."
+    },
+    {
+      "id": "3bb19ec5-57ca-40c2-bde4-d8f4edd247a8",
+      "flavourName": "Blueberry Cotton K / Raspberry Cotton K",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250034/Blueberry_Cotton_K_Raspberry_Cotton_K_Hayati_Pro_Ultra_25000_tfe0tw.jpg",
+      "productDescription": "Tangy blue raspberry paired with zesty lemonade, creating a refreshing and vibrant citrus blend."
+    },
+    {
+      "id": "b301bcb0-7eb8-4b2a-a632-9cfd8852885c",
+      "flavourName": "Blueberry H’ Bubba / Watermelon H’ Bubba",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250038/Blueberry_H_Bubba_Watermelon_H_Bubba_Hayati_Pro_Ultra_25000_kzehxb.jpg",
+      "productDescription": "Tart blue raspberry with a sharp sour edge, perfect for those who love a tangy kick."
+    },
+    {
+      "id": "c62d7075-7257-4328-9200-dc703de72211",
+      "flavourName": "Blueberry Raspberry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250036/Blueberry_Raspberry_Hayati_Pro_Ultra_25000_gsoedo.jpg",
+      "productDescription": "A rich combination of sweet blueberries and vibrant cherries, and tangy cranberries for a fruity burst."
+    },
+    {
+      "id": "807f5eed-1ea8-4874-ad18-cb7454b8d203",
+      "flavourName": "Cherry Berry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250034/Cherry_Berry_Hayati_Pro_Ultra_25000_eq61zk.jpg",
+      "productDescription": "A juicy combination of sweet blueberries and tangy raspberries, harmonizing fruity perfection."
+    },
+    {
+      "id": "c2a7f169-1fcd-40a6-a2af-f208802c553d",
+      "flavourName": "Fresh Mint",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250041/Fresh_Mint_Hayati_Pro_Ultra_25000_xxud7a.jpg",
+      "productDescription": "A tropical fusion of exotic fruits, inspired by the vibrant flavours of the Caribbean."
+    },
+    {
+      "id": "e97c8f42-beb2-461a-8997-c90b3efe6097",
+      "flavourName": "Grape GB / Strawberry GB",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250042/Grape_GB_Strawberry_GB_Hayati_Pro_Ultra_25000_kjsqe7.jpg",
+      "productDescription": "A luscious blend of ripe cherries and mixed berries, offering a bold and flavourful punch."
+    },
+    {
+      "id": "dd85b2cc-c3b5-4567-9c45-7c8ee0b95fc1",
+      "flavourName": "H’ Bubba",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250038/H_Bubba_Hayati_Pro_Ultra_25000_cageeb.jpg",
+      "productDescription": "The classic taste of cola infused with the bold sweetness of ripe cherries for a fizzy delight."
+    },
+    {
+      "id": "7545f9a8-e6a0-4e79-8d70-b41725654d9f",
+      "flavourName": "Kiwi Banana / Straw’ Banana",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250041/Kiwi_Banana_Straw_Banana_Hayati_Pro_Ultra_25000_rfy0fq.jpg",
+      "productDescription": "A lively and sparkling cherry soda flavour that’s sweet, fizzy, and full of character."
+    },
+    {
+      "id": "0bef2653-4556-4212-953e-39c38a4dff97",
+      "flavourName": "Lemon & Lime",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250039/Lemon_Lime_Hayati_Pro_Ultra_25000_hbvesp.jpg",
+      "productDescription": "A pure and invigorating mint flavour that offers a cool and crisp refreshment with every puff."
+    },
+    {
+      "id": "115ebb26-b6a8-48b9-aac0-d01e5e6996ba",
+      "flavourName": "Mr Blue",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250038/Mr_Blue_Hayati_Pro_Ultra_25000_f22irj.jpg",
+      "productDescription": "A colourful medley of tropical fruits, blending sweetness and tang for a vibrant taste journey."
+    },
+    {
+      "id": "0e85e14f-6115-41f7-802f-aed63692c2b7",
+      "flavourName": "Straw’ Cranberry Cherry / Cherry Ice",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250041/Straw_Cranberry_Cherry_Cherry_lce_Hayati_Pro_Ultra_25000_gfj1ux.jpg",
+      "productDescription": "Classic bubblegum flavour with a sweet and nostalgic twist that never goes out of style."
+    },
+    {
+      "id": "deb79652-b678-4bfa-a5eb-d0034e2d61d9",
+      "flavourName": "Straw’ Grapefruit / Straw’ Dragonfruit",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250038/Straw_Grapefruit_-Straw_Dragonfruit_Hayati_Pro_Ultra_25000_wpxfat.jpg",
+      "productDescription": "A nostalgic and fruity frozen treat, delivering a cool and refreshing flavour sensation."
+    },
+    {
+      "id": "a3156ec6-c9b9-47d5-b7e0-631fb9acaf51",
+      "flavourName": "Straw’ Guava / Dragon Berries",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250041/Straw_Guava_Dragon_Berries_Hayati_Pro_Ultra_25000_b7aw8p.jpg",
+      "productDescription": "Sun-ripened peaches bursting with sweetness, delivering a juicy and irresistible flavour."
+    },
+    {
+      "id": "5d0fb2be-ed2f-45f5-9fe4-e2b9bb1771ee",
+      "flavourName": "Strawberry Watermelon",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250040/Strawberry_Watermelon_Hayati_Pro_Ultra_25000_paq3mr.jpg",
+      "productDescription": "A zesty fusion of tangy lemon and lime, offering a crisp and refreshing citrus sensation."
+    },
+    {
+      "id": "3d315cf3-92e0-45af-ba2d-50f5f49ef13f",
+      "flavourName": "Summer Dream",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250036/Summer_Dream_Hayati_Pro_Ultra_25000_tsnp89.jpg",
+      "productDescription": "A refreshing and invigorating blend that combines the crisp notes of strawberries, blueberries, and blueberries with the subtle flavour of mint."
+    },
+    {
+      "id": "8617e020-7cdc-4499-9856-5215babfdf3c",
+      "flavourName": "Watermelon B’ Gum / Strawberry B’ Gum",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250038/Watermelon_B_Gum_Strawberry_B_Gum_Hayati_Pro_Ultra_25000_bl94c3.jpg",
+      "productDescription": "Sweet tropical pineapple balanced with an invigorating icy exhale for ultimate refreshment."
+    }
+  ]
+}

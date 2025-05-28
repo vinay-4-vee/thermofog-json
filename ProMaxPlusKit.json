@@ -1,0 +1,198 @@
+{
+  "brand": "Hayati",
+  "model": "Hayati Pro Max + Kit 6000",
+  "urlToRedirect": "/Hayati/ProMaxPlusKit",
+  "modelIcon": "https://res.cloudinary.com/depazjh2g/image/upload/v1747775026/Hayati_Pro_Max_Media_Picture_6_uehtug.jpg",
+  "mainImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1748250341/maxplus-04_2560x_a6ovlz.webp",
+  "mediaPictures": [
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1747775026/Hayati_Pro_Max_Media_Picture_1_l7jght.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1747775026/Hayati_Pro_Max_Media_Picture_2_vklzc2.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1747775026/Hayati_Pro_Max_Media_Picture_3_gpffa9.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1747775026/Hayati_Pro_Max_Media_Picture_4_w6pqv8.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1747775027/Hayati_Pro_Max_Media_Picture_5_lne5p0.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1747775027/Hayati_Pro_Max_Media_Picture_8_e6j0rj.jpg",
+    "https://res.cloudinary.com/depazjh2g/image/upload/v1747775028/Hayati_Pro_Max_Media_Picture_9_snhsgj.jpg"
+  ],
+  "deviceInfo": [
+    {
+      "id": "a9910791-046a-4e16-bf17-dbcec0671c01",
+      "flavourName": "Banana Ice",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901012/Banana_Ice_Hayati_Pro_Max_6000_ygo0cy.png",
+      "productDescription": "A smooth blend of ripe bananas with a refreshing icy finish."
+    },
+    {
+      "id": "447b4d27-ab23-4a96-9c81-b433775a8681",
+      "flavourName": "Blackberry Raspberry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747900895/Blackberry_Raspberry_Hayati_Pro_Max_6000_ukz4t0.png",
+      "productDescription": "A bold mix of tart blackberries and sweet raspberries, delivering a rich and vibrant flavour."
+    },
+    {
+      "id": "6c318b9a-49e4-41c3-bf28-4a9003494b44",
+      "flavourName": "Blue Razz Cherry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901003/Blue_Razz_Cherry_Hayati_Pro_Max_6000_m5i0rh.png",
+      "productDescription": "A bold fusion of blue raspberry and sweet cherry for a tangy-sweet burst."
+    },
+    {
+      "id": "17f872e2-7c26-468f-8eb3-6ed92f4dd658",
+      "flavourName": "Blue Razz Gb",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747900895/Blue_Razz_GB_Hayati_Pro_Max_6000_kzu8t7.png",
+      "productDescription": "Blue raspberry with a sweet gummy bear twist, perfectly balanced."
+    },
+    {
+      "id": "11ae5705-28ee-49a2-b3a1-9ac09041dd32",
+      "flavourName": "Blue Razz Lemonade",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747900933/Blue_Razz_Lemonade_Hayati_Pro_Max_6000_qq64fa.png",
+      "productDescription": "Tangy blue raspberry paired with zesty lemonade, creating a refreshing and vibrant citrus blend."
+    },
+    {
+      "id": "7940fbce-ddd3-4ba6-8702-106f143db1d9",
+      "flavourName": "Blue Sour Raspberry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747900896/Blue_Sour_Raspberry_Hayati_Pro_Max_6000_nvp628.png",
+      "productDescription": "Tart blue raspberry with a sharp sour edge, perfect for those who love a tangy kick."
+    },
+    {
+      "id": "88e3f3a2-fdcf-41f1-9915-5f1aa7dfe65a",
+      "flavourName": "Blueberry Cherry Cranberry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901009/Blueberry_Cherry_Cranberry_Hayati_Pro_Max_6000_thwhtf.png",
+      "productDescription": "A rich combination of sweet blueberries and vibrant cherries, and tangy cranberries for a fruity burst."
+    },
+    {
+      "id": "b553d268-e6b7-4dcd-ac89-f84a1d1d9147",
+      "flavourName": "Blueberry Raspberry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901011/Blueberry_Raspberry_Hayati_Pro_Max_6000_nkje9k.png",
+      "productDescription": "A juicy combination of sweet blueberries and tangy raspberries, harmonizing fruity perfection."
+    },
+    {
+      "id": "01f6acbb-5f8a-4857-894a-87667a43b910",
+      "flavourName": "Caribb Crush",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901008/Caribb_Crush_Hayati_Pro_Max_6000_sq0tnm.png",
+      "productDescription": "A tropical fusion of exotic fruits, inspired by the vibrant flavours of the Caribbean."
+    },
+    {
+      "id": "1b5c1890-401c-41ed-badb-eb832ed05411",
+      "flavourName": "Cherry Berry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901005/Cherry_Berry_Hayati_Pro_Max_6000_zzczk3.png",
+      "productDescription": "A luscious blend of ripe cherries and mixed berries, offering a bold and flavourful punch."
+    },
+    {
+      "id": "c1d52416-c052-4f77-9c12-52410aba8418",
+      "flavourName": "Cherry Cola",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901004/Cherry_Cola_Hayati_Pro_Max_6000_b2i1dt.png",
+      "productDescription": "The classic taste of cola infused with the bold sweetness of ripe cherries for a fizzy delight."
+    },
+    {
+      "id": "7bead014-5433-407f-84b3-d32f3b07d867",
+      "flavourName": "Fizzy Cherry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901006/Fizzy_Cherry_Hayati_Pro_Max_6000_tnawlp.png",
+      "productDescription": "A lively and sparkling cherry soda flavour that’s sweet, fizzy, and full of character."
+    },
+    {
+      "id": "1db1c42a-4706-4fc7-af96-6b71772faeaa",
+      "flavourName": "Fresh Mint",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901011/Fresh_Mint_Hayati_Pro_Max_6000_j1wbx6.png",
+      "productDescription": "A pure and invigorating mint flavour that offers a cool and crisp refreshment with every puff."
+    },
+    {
+      "id": "017e01c7-1e5b-4196-9433-ba1058c8d37f",
+      "flavourName": "Fruit Twist",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901010/Fruit_Twist_Hayati_Pro_Max_6000_scnizx.png",
+      "productDescription": "A colourful medley of tropical fruits, blending sweetness and tang for a vibrant taste journey."
+    },
+    {
+      "id": "ad268703-9fe1-4399-92f7-b8545da33694",
+      "flavourName": "Hubba bubba",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901013/H_Bubba_Hayati_Pro_Max_6000_juv7ss.png",
+      "productDescription": "Classic bubblegum flavour with a sweet and nostalgic twist that never goes out of style."
+    },
+    {
+      "id": "5b63a918-87d7-4356-b19b-685937da48c9",
+      "flavourName": "Ice Pop",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901014/Ice_Pop_Hayati_Pro_Max_6000_zombph.png",
+      "productDescription": "A nostalgic and fruity frozen treat, delivering a cool and refreshing flavour sensation."
+    },
+    {
+      "id": "a566707e-47a2-4acb-a809-bf6aaea5f481",
+      "flavourName": "Juicy Peach",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901014/Juicy_Peach_Hayati_Pro_Max_6000_z8ywju.png",
+      "productDescription": "Sun-ripened peaches bursting with sweetness, delivering a juicy and irresistible flavour."
+    },
+    {
+      "id": "1bb69b07-861a-4c3f-98f5-bc3b1ddfeb5f",
+      "flavourName": "Lemon & Lime",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901017/Lemon_Lime_Hayati_Pro_Max_6000_dufpkn.png",
+      "productDescription": "A zesty fusion of tangy lemon and lime, offering a crisp and refreshing citrus sensation."
+    },
+    {
+      "id": "c9d72867-cace-42b6-8890-d075cbbf4ccd",
+      "flavourName": "Mr Blue",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901017/Mr_Blue_Hayati_Pro_Max_6000_fq3dfg.png",
+      "productDescription": "A refreshing and invigorating blend that combines the crisp notes of strawberries, blueberries, and blueberries with the subtle flavour of mint."
+    },
+    {
+      "id": "26e2f6da-5ff1-4ac1-87a7-b3af3fdd996d",
+      "flavourName": "Pineapple Ice",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901017/Pineapple_Ice_Hayati_Pro_Max_6000_ugy0n6.png",
+      "productDescription": "Sweet tropical pineapple balanced with an invigorating icy exhale for ultimate refreshment."
+    },
+    {
+      "id": "d5fb8d32-7148-489e-b3e1-9f65df5ed1f5",
+      "flavourName": "Pipeline Punch",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901019/Pipeline_Punch_Hayati_Pro_Max_6000_xwtyr5.png",
+      "productDescription": "An energizing blend of tropical fruits with a tangy-sweet punch that’s bold and unforgettable."
+    },
+    {
+      "id": "260ed897-b0aa-4a9b-a85b-a33baa96fd8e",
+      "flavourName": "Red Apple Ice",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901015/Red_Apple_Ice_Hayati_Pro_Max_6000_lpkhgu.png",
+      "productDescription": "Crisp red apple flavour with a cool menthol undertone, perfect for a refreshing fruity experience."
+    },
+    {
+      "id": "71e31234-8915-4386-b07f-1f6df74aed74",
+      "flavourName": "Strawberry Cherry Cranberry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747900894/Strawberry_Cherry_Cranberry_Hayati_Pro_Max_6000_xkaraw.png",
+      "productDescription": "A delightful trio of sweet strawberries, juicy cherries, and tart cranberries for a bold berry medley."
+    },
+    {
+      "id": "d4274a8b-5f31-4df4-861e-1861d3617b30",
+      "flavourName": "Strawberry Kiwi",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901003/Strawberry_Kiwi_Hayati_Pro_Max_6000_i73y9h.png",
+      "productDescription": "Juicy strawberries combined with the tangy tartness of kiwi, creating a perfectly balanced fruit duo."
+    },
+    {
+      "id": "6e638f86-08a7-411e-8a06-cec8b5345592",
+      "flavourName": "Strawberry Raspberry Blueberry",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901003/Strawberry_Raspberry_Blueberry_Hayati_Pro_Max_6000_l6detx.png",
+      "productDescription": "A harmonious trifecta of sweet strawberries, tangy raspberries, and juicy blueberries."
+    },
+    {
+      "id": "d0cbc9d6-ae24-4398-bdb5-faa48c7795fc",
+      "flavourName": "Strawberry Raspberry Ice",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901003/Strawberry_Raspberry_Ice_Hayati_Pro_Max_6000_rg5fq1.png",
+      "productDescription": "A refreshing blend of sweet strawberries and tart raspberries, finished with a crisp icy breeze."
+    },
+    {
+      "id": "046071f3-1195-470e-9009-267c87ef28e8",
+      "flavourName": "Strawberry Watermelon",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901006/Strawberry_Watermelon_Hayati_Pro_Max_6000_w0s7ri.png",
+      "productDescription": "Sweet, ripe strawberries meet juicy watermelon in a deliciously summery fruit blend."
+    },
+    {
+      "id": "0d7b14cd-755d-4ec2-8787-a4d866585341",
+      "flavourName": "Summer Dream",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901007/Summer_Dream_Hayati_Pro_Max_6000_sr1yfi.png",
+      "productDescription": "A tropical escape in every puff, combining sun-ripened fruits with a light and breezy finish."
+    },
+    {
+      "id": "a102ed2c-95f0-43c2-8fc5-57f9845cb48f",
+      "flavourName": "Triple Mango",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901005/Triple_Mango_Hayati_Pro_Max_6000_rmg3nr.png",
+      "productDescription": "A rich and luscious fusion of three mango varieties, capturing every sweet, juicy, and tropical note."
+    },
+    {
+      "id": "38a96b12-b245-4d84-b009-0ec8a47357fd",
+      "flavourName": "Watermelon Ice",
+      "productImage": "https://res.cloudinary.com/depazjh2g/image/upload/v1747901009/Watermelon_Ice_Hayati_Pro_Max_6000_cxqwsi.png",
+      "productDescription": "Juicy watermelon flavour enhanced with a cooling icy touch for a refreshing summertime vibe."
+    }
+  ]
+}
